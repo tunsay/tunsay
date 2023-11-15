@@ -2,15 +2,16 @@
 
 Je suis actuellement Développeur Web et Application.
 
-## Projet 1 - Ressource Booki https://github.com/tunsay/P2_Ressource_booki
-Le premier projet consiste à coder à partir d'une maquette prédéfini en HTML/CSS.
+## Projet 14 - Wealth Health https://github.com/tunsay/P14_wealthhealth
+Le projet repose sur React pour la construction de l'interface utilisateur, MongoDB en tant que base de données, Redux pour la gestion d'état, une API externe pour l'intégration de données, et l'utilisation d'un composant personnalisé npm pour améliorer la modularité et la réutilisabilité du code. La stack technologique comprend React, Redux, une API externe, et un composant npm personnalisé, offrant ainsi une solution complète et performante pour le développement d'applications web.
 
-<img width="500" alt="176302372-44fd8a97-5889-4472-bb78-d76fae1abc3e" src="https://github.com/tunsay/tunsay/assets/40166667/7d306b72-2669-4707-9d68-65e66681cddb"> 
+## Projet 13 - Argent Bank https://github.com/tunsay/P13_Argent_Bank_Front
 
-## Projet 2 - OhMyFood https://github.com/tunsay/P3_Ohmyfood
-Avec les connaissances du projet 1, mon but dans ce projet consiste à adapter ce site en mobile/tablette, simuler un chargement d'élément et gérer la navigation des pages.
+## Projet 12 - Sport See https://github.com/tunsay/SportSee
 
-![180656035-a7545aff-86f8-484e-9316-0ae43232b876](https://github.com/tunsay/tunsay/assets/40166667/77543b93-4d63-4088-88eb-1be4e3ea575c)
+## Projet 11 - Kasa https://github.com/tunsay/p11_my_project_kasa_
+
+## Projet 7 - Les petits plats https://github.com/tunsay/P7_Les-petits-plats
 
 
 
