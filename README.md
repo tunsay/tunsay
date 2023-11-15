@@ -17,6 +17,9 @@ Le projet implique la création d'une page d'accueil avec une liste de lieux, ai
 ## Projet 7 - Les petits plats https://github.com/tunsay/P7_Les-petits-plats
 Le projet consiste à élaborer un algorithme de recherche efficace pour simplifier la quête de plats spécifiques. Il intègre également un système de balises facilitant la recherche par catégories, offrant ainsi une expérience conviviale pour trouver rapidement le plat souhaité.
 
+## Projet 6 - FishEye https://github.com/tunsay/P6_Front-End-Fisheye
+Le projet a implémenté des appels à une API locale pour afficher des images sur la page d'accueil. Les informations des photographes ont été récupérées via l'utilisation de la méthode Fetch en JavaScript, accompagnée d'un système de factory, permettant une gestion efficace des données et une présentation visuelle attrayante.
+
 
 
 <!--
