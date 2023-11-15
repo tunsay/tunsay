@@ -2,8 +2,6 @@
 
 Je suis actuellement Développeur Web et Application.
 
-Je suis heureux de vous présenter mon parcours professionnel et ma formation sur open classroom. J'ai décidé de me former sur le javascript react, un framework très populaire et performant pour créer des applications web dynamiques et interactives. J'ai suivi la formation en ligne proposée par open classroom, qui m'a permis d'acquérir les compétences nécessaires pour maîtriser le langage javascript, les principes de la programmation réactive, les composants react, le routage, la gestion des états, les hooks, les tests unitaires et l'intégration avec des API. J'ai également réalisé plusieurs projets concrets pour mettre en pratique mes connaissances et développer mon portfolio. Je vous invite à consulter mes réalisations sur mon site web ou sur mon github. Je suis actuellement à la recherche d'un emploi ou d'une mission en tant que développeur web react. Je suis motivé, autonome, curieux et prêt à apprendre de nouvelles choses. Je vous remercie de votre attention et je reste à votre disposition pour toute question.
-
 ## Projet 1 - Ressource Booki https://github.com/tunsay/P2_Ressource_booki
 Le premier projet consiste à coder à partir d'une maquette prédéfini en HTML/CSS.
 
